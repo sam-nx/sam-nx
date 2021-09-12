@@ -2,6 +2,6 @@
 - 🎂 I'm 16 years old
 - 🇧🇪 I'm from Belgium
 - 👀 I’m interested in dev, web hosting, computers
-- 🌱 I’m currently learning gLua, JS, html/css, php, python
+- 🌱 I’m currently learning gLua, JS, html/css, php, python, java and Kotlin
 - 📫 Discord: SamNx#8010 | Mail: samnuax123@gmail.com
 - 🌐 https://samnx.xyz/
