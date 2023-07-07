@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sam-nx
-- 🎂 I'm 17 years old
+- 🎂 I'm 18 years old
 - 🇧🇪 I'm from Belgium
 - 👀 I’m interested in web and apps development, computers and diverting electronic objects
-- 🌱 I’m currently learning Python, Node.js and GoLang
-- 💻 I'm a web developer (PHP and JS)
-- 📫 Discord: SamNx#8010 | Mail: samnuax123@gmail.com
+- 🌱 I’m currently learning Python and GoLang
+- 💻 I'm a web developer.
+- 📫 Discord: SamNx#8010
 - 🌐 https://samnx.xyz/
